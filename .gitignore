@@ -24,3 +24,5 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+# Old 2-crop model backup
+models/old_2crop_model
